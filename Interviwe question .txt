@@ -1,0 +1,184 @@
+
+Interview Questions 
+
+1.Intruduce your self 
+
+:- * Good afternoon sir , first of all thanks you for give me this opportunity . My name is lokesh choudhary i am from jalgoan. 
+
+*currently i am pursuing my post gradution diploma in cdac acts pune where i am learning various skill like java ,advance java ,MySql and react required for working in it industry.
+
+*i am a programmer with knowledge of various programming skill JAVA,JAVA script,Shell scripting.
+
+*i have completed my post gradution in 2022.My last year college project was developing a mobile app for food delivery, that i completed successfully with excellent results.
+
+*my interpersonal skills are i was a team leader in my college time.
+
+*Hobbie :- cycling , lisning music.
+
+sir i can sit here
+
+=================================================================================================
+
+2. What is your greatest strenghts ?
+
+:-  My greatest strength is my ability to adapt and learn quickly. Throughout my experiences, I've found that I can readily understand new concepts and technologies, allowing me to contribute effectively even in unfamiliar situations. This quality has enabled me to take on diverse projects, collaborate with various teams, and consistently deliver results. 
+
+One of my greatest strengths is my strong problem-solving ability. I enjoy approaching challenges from different angles and finding creative solutions. Whether it's a complex project at work or a personal goal, I thrive in situations that require critical thinking and the ability to adapt.
+
+=================================================================================================
+
+3. what is your greatest weaknesses(Area where you need some improvement)?
+
+:- "One area where I've been actively working to improve is my time management. I've found that i am spend more time unnecessary on certain tasks. To overcome this, I've started using time management techniques such as setting specific time limits for each task and prioritizing my to-do list more effectively. I'm also using digital tools to track my progress and ensure that I allocate the right amount of time to each task. I believe that by continuously refining my time management skills, I can enhance my overall productivity and contribute more efficiently to my team's success."
+
+
+======================================================================================================
+
+4. what is your short-term goals?
+
+:-"My short-term goals revolve around learning and contributing.  I aim to quickly grasp the team's dynamics, understand the company's processes, and learn from experienced colleagues. By doing so, I want to make meaningful contributions to projects and initiatives, helping the team achieve its goals efficiently. This will not only accelerate my growth but also add value to the company as I integrate my skills and enthusiasm into the work."
+
+
+===========================================================================================================
+
+5.how long would you like to work with us ?
+
+:- My primary focus right now is to contribute effectively and make a positive impact on the team and projects. While I don't have a specific timeframe in mind, I believe that as long as I continue to find meaningful challenges and opportunities for growth within the company, I would be enthusiastic about a long-term collaboration. My priority is to be a valuable asset to the team and help [company name] achieve its goals."
+
+
+===============================================================================================
+
+6.would you like to sign a contract (for 5 years)?
+
+:-I'm genuinely excited about the opportunity to contribute to [company name]. As long as I'm able to continue making a positive impact and growing within the organization, I see myself having a long-term association. However, I understand that career paths can evolve based on various factors. My primary focus is on delivering value, collaborating effectively with the team, and contributing to the company's success. If the alignment between my contributions and the company's needs remains strong, I'm looking forward to a lasting and mutually beneficial partnership."
+
+===========================================================================================
+
+7.would you leave us if you got a better opportunity?
+
+:- "I am fully committed to contributing my best to [company name] and the role I'm being considered for. My primary focus is on adding value, working collaboratively with the team, and achieving the company's objectives. I believe in long-term partnerships built on mutual respect and trust. However, I also recognize that career paths can be dynamic, and unforeseen opportunities may arise. If such a situation were to occur, I would handle it professionally and transparently, ensuring a smooth transition that minimizes any disruption to the team's progress."
+
+================================================================================================
+
+8.what is your long-term goals?
+
+:-"My long-term goals are centered around professional growth and contributing to meaningful projects. I'm excited about the potential to advance within [company name], taking on roles that allow me to lead and make strategic decisions. I also have a keen interest in [mention a relevant area, e.g., technology, sustainability] which aligns with your company's focus. Ultimately, I see myself as a key player in driving innovation and positively impacting both the company and its industry. I'm dedicated to continuous learning and development to ensure that I can meet the challenges of the evolving business landscape."
+
+======================================================================================
+
+9. what is your gretest accomplishment ?
+
+:-"One of my significant accomplishments as a fresher was successfully completing a group project during my final year of college. Our assignment was to develop a mobile application that addressed a real-world problem. I took on the role of project manager and collaborated closely with my team members. Through effective communication, task delegation, and problem-solving, we created a functional app that received positive feedback from both our peers and our professor. This experience taught me the importance of teamwork, time management, and adapting to challenges. It also reinforced my passion for software development and my desire to continue learning and growing in the field."
+
+================================================================================================
+
+10.who is inspired you in your life and why?
+
+:-Throughout my life, my greatest source of inspiration has been my father. He is a successful farmer. What truly impressed me was his unwavering work ethic, determination, and his commitment to treating everyone with respect. He used to share stories of the challenges he faced and how he overcame them through perseverance and innovative thinking.
+
+==================================================================================================
+
+11.why do you want to work for us?
+
+"I'm really excited about the opportunity to work for [company name]. Through my research, I've come to admire the company's innovative approach to [mention a specific aspect, e.g., product development, sustainability]. The groundbreaking work you're doing in [mention a relevant project, product, or industry] aligns perfectly with my passion for [mention a relevant interest or skill].
+
+==============================================================================================
+
+12.why did you decide t join CDAC for this course?
+
+:- I decided to join the course at CDAC because of the exceptional reputation it has in providing high-quality education and training in [mention the specific field of the course, e.g., software development, data science]. After researching various options, I found that CDAC's curriculum not only covers the latest technologies and industry trends but also emphasizes practical application and hands-on experience.
+
+The cutting-edge technologies and practical hands-on experience offered by CDAC are precisely what I need to excel in my desired field. Additionally, I'm impressed by the strong industry connections CDAC has, which I believe will provide invaluable networking opportunities and potential job placements.
+
+=============================================================================================================
+
+13. what is more important to you-knowledge or money?
+  
+:- "Both knowledge and money hold significance, but if I had to choose, knowledge would take precedence for me. Knowledge is an invaluable asset that empowers personal and professional growth. It opens doors to new opportunities, enhances problem-solving abilities, and enables continuous learning.
+
+While money is essential for financial stability and meeting basic needs, it's the acquisition of knowledge that drives innovation, fosters adaptability, and allows for meaningful contributions to society. With knowledge, one can not only achieve success but also make a positive impact on the world around them.
+
+I believe that a focus on acquiring knowledge ultimately leads to a well-rounded and fulfilling life, enabling the pursuit of meaningful goals and making a difference in both my own life and the lives of others."
+
+==============================================================================================
+
+14. why did you choose to do this particular course?
+
+:- "I chose to pursue this particular course because it perfectly aligns with my passion for [mention the relevant field, e.g., data science, software engineering] and my long-term career goals. Through my research, I found that this course offers a comprehensive curriculum that covers [mention specific topics or skills covered in the course] which are crucial for success in this field.
+
+===============================================================================================
+
+15. looking back,what would you do diiferently in your life ?
+
+:-"Looking back, I believe that every experience, whether positive or challenging, has contributed to my growth and learning. However, if I were to consider making changes, I might have focused even more on cultivating soft skills such as effective communication and collaboration from an earlier stage. These skills are integral not only in professional settings but also in personal interactions.
+
+Ultimately, I view every step in my journey as a chance to learn and improve, and I'm committed to applying the lessons I've gained to continue growing and contributing in meaningful ways."
+
+==============================================================================================
+
+16. how do you feel about working nights and weekends?
+
+:- I understand that certain projects or deadlines may require additional effort, and I'm open to occasionally working nights and weekends when the situation demands it. I believe in delivering quality work and meeting deadlines, even if it means putting in extra time.
+
+n cases where extended work hours become a frequent requirement, I would appreciate the opportunity to discuss strategies for managing workload and ensuring that the team remains productive while also taking care of our well-being."
+
+==========================================================================================
+
+17. do you have any questions for me/us?
+
+:-
+1.Can you describe the typical career progression for someone in this role?
+This question shows your ambition and interest in long-term growth within the company.
+
+2.What are the key qualities you're looking for in an ideal candidate for this position?
+This question helps you align your responses with the qualities the company values.
+
+3.Can you provide more details about the day-to-day responsibilities of this role?
+This question shows your eagerness to understand the role's requirements and responsibilities.
+
+4.How does the company support professional development and learning opportunities for its employees?
+This question indicates your commitment to continuous improvement and growth.
+
+5.What are some of the most exciting projects the team is currently working on?
+This question demonstrates your enthusiasm for the company's current initiatives.
+
+"Could you tell me more about the team I would be working with and their roles within the company?"
+
+"What are the main goals or projects that the team is currently focusing on, and how does this role contribute to those objectives?"
+
+"Can you provide insights into the company culture and how employees collaborate and support each other?"
+
+"What opportunities for professional development and growth does the company offer to its employees?"
+
+"How does the company support work-life balance, especially during busy periods or tight deadlines?"
+
+==============================================================================================================18. what makes you angry?
+
+:- While I believe in maintaining a positive and composed demeanor, there are situations that can evoke a sense of frustration. For instance, I find it challenging when projects face unnecessary delays due to lack of clear communication or misalignment within a team. In such cases, I believe that open and respectful dialogue is crucial to resolve issues and keep progress on track. I always strive to address these situations constructively, focusing on finding solutions rather than dwelling on frustration."
+
+============================================================================================
+
+19. how would you justify your gap of x years?
+
+:-During the gap of [x years], I chose to [briefly explain the reason for the gap, e.g., pursue further education, care for a family member, travel, etc.]. While not actively employed, I remained committed to continuous learning and personal growth by [mention any relevant activities you engaged in during the gap, e.g., taking online courses, freelancing, volunteering, etc.]. This period allowed me to [highlight any skills, insights, or experiences gained during the gap] which I believe have further enriched my skill set and perspective.
+
+============================================================================================
+
+20. do you prefer working alone in a team?
+
+:-"I believe in the power of collaboration and teamwork, as well as the value of individual contributions. In a team setting, diverse perspectives can lead to innovative solutions and a more comprehensive approach to problem-solving. I enjoy the energy and synergy that comes from working alongside colleagues with different strengths and viewpoints.
+
+However, I also recognize the importance of focused individual work. There are tasks that require deep concentration and attention to detail, and during such times, I find working independently beneficial.
+
+=====================================================================================================
+
+21. why should hire you ?
+
+:-I have the right skills for the job. I'm a quick learner and can handle new situations well. When problems come up, I'm good at finding smart solutions. I work well in teams and always try to help everyone succeed. I'm eager to learn and improve, which will help me contribute to your team's goals. Plus, I share the same values as your company and will work hard to get things done and make a positive impact.
+
+=====================================================================================================
+
+
+
+
+
